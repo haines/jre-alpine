@@ -1,4 +1,7 @@
-MIT License
+To build or use this Docker image, you must accept the Oracle Binary Code License Agreement for Java SE
+http://www.oracle.com/technetwork/java/javase/terms/license/index.html
+
+The contents of this repository are licensed under the MIT License
 
 Copyright (c) 2016 Andrew Haines
 
